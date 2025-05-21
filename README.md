@@ -1,4 +1,6 @@
 **One-Page Company Profile for Godfrey Phillips India Ltd**
+
+
 Hello everyone,
 
 This repository contains a **One-Page Company Profile for Godfrey Phillips India Ltd. (NSE: GODFRYPHLP, BSE: 500163)**. This profile consolidates key financial metrics, ratios, shareholder information, recent updates, and capital structure details into a single, easy-to-digest visual format.
